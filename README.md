@@ -1,5 +1,5 @@
 # marketing-analytics-data
-In this project, I will perform exploratory data analyses, data visualization and statistical analysis utilizing machine learning algorithms. 
+In this project, I will perform exploratory data analyses, data visualization and statistical analysis utilizing machine learning algorithms on a [kaggle dataset](https://www.kaggle.com/datasets/jackdaoud/marketing-data/data) containing Marketing Data.
 
 More precisely:
 - Customers' expenditures on different product categories will be predicted by applying linear regression analyses. 
